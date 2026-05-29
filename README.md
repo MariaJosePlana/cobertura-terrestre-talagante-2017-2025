@@ -23,7 +23,6 @@ Este análisis utiliza la capa ESRI 10m Cobertura Terrestre Anual - un producto 
 				
 ![Gráfico de transiciones](grafico_transicion.png)
 
-Figura 1: El anillo interior representa la distribución inicial y el anillo exterior las transiciones a clases finales. Los cultivos representan la clase dominante del territorio, seguidos por las praderas y el área construida. Durante el período analizado, el mayor cambio correspondió a la expansión del área construida, con un crecimiento del 24,85%, lo que refleja una tendencia sostenida de urbanización en una provincia tradicionalmente agrícola.
 
 
 Análisis e Interpretación:
